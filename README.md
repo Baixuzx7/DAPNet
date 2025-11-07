@@ -4,7 +4,7 @@
 
 <em>Hebaixu Wang and Jiayi Ma </em>.
 
-[Paper](https://openaccess.thecvf.com/content/ICCV2025/papers/Wang_Deep_Adaptive_Unfolded_Network_via_Spatial_Morphology_Stripping_and_Spectral_ICCV_2025_paper.pdf) |  [Github Code]([https://github.com/MiliLab/DGSolver](https://github.com/Baixuzx7/DAPNet))
+[Paper](https://openaccess.thecvf.com/content/ICCV2025/papers/Wang_Deep_Adaptive_Unfolded_Network_via_Spatial_Morphology_Stripping_and_Spectral_ICCV_2025_paper.pdf) |  [Github Code](https://github.com/Baixuzx7/DAPNet)
 
 ## Abstract
 
