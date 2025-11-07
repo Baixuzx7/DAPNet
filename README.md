@@ -30,7 +30,7 @@ Baixuzx7 @ wanghebaixu@gmail.com
 
 ### Copyright statement
 
-The project is signed under the MIT license, see the [LICENSE.md](https://github.com/MiliLab/DGSolver/LICENSE.md)
+The project is signed under the MIT license, see the [LICENSE.md](https://github.com/Baixuzx7/DAPNet/blob/main/LICENSE)
 
 ### Reference
 
