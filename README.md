@@ -16,11 +16,11 @@ In the field of pan-sharpening, existing deep methods are hindered in deepening 
 
 ## Visualization
 
-<img src="./assets/datapipe.png" width="100%">
+<img src="./assets/datapipe.png" width="50%">
 
 ## Datasets Information
 
-[Google Cloud](https://drive.google.com/file/d/1cc7WkG2E8gGKEzBt7WZFXmkpV7VzLWk7/view?usp=drive_link)
+[Google Cloud](https://drive.google.com/drive/folders/1J1ofqk9FEjbrFozqnNjr0bmDPwuhaW_O?usp=drive_link)
 
 [Baidu Cloud](https://pan.baidu.com/s/1AOGPsxD-IT0zqZ-pDzEjMQ?pwd=ygre)[ygre]
 
